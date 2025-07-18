@@ -3,8 +3,11 @@
 ## Trabalho Final
 
 Universidade do Estado do Amazonas (UEA)
+
 Pós Graduação em Ciência de Dados
+
 Matéria: Visualização de Dados
+
 Aluna: Anna Milani
 
 ### Base de Dados
